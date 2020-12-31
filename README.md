@@ -12,8 +12,8 @@ This board is designed to be used with my Switchboard Pedal IO PCB which you can
 | Reference      | Quantity | Value  | Description                                          |
 | :------------- | -------: | -----: | :--------------------------------------------------- |
 | C1 C3 C5 C6 C7 | 5        | 100n   | WIMA MKS2 63V                                        |
-| C2 C8          | 2        | 1µ     | WIMA MKS2 63V                                        |
-| C4             | 1        | 470n   | WIMA MKS2 63V                                        |
+| C2 C8          | 2        | 1µ     | WIMA MKS2 50V                                        |
+| C4             | 1        | 470n   | WIMA MKS2 50V                                        |
 | D1 D2          | 2        | 1N4148 | DO-35 Diode                                          |
 | J1             | 1        |        | Pin Header, 6 pins, 2.54mm spacing                   |
 | J2             | 1        |        | DC Barrel Jack with internal switch                  |
