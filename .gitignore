@@ -1,7 +1,6 @@
 gerbers/
 samples/
-*-bak
-*.bak
+*.html
 *-cache
 *.zip
 *.pdf
